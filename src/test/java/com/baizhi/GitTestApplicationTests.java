@@ -9,6 +9,11 @@ class GitTestApplicationTests {
     @Test
     void contextLoads() {
         System.out.println("asdasdasdasdasdasda");
+
+    }
+
+    public static void main(String[] args) {
+        System.out.println("main");
     }
 
 }
